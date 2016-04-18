@@ -1,2 +1,1 @@
-#Requirements
-'sudo pip intall PyYAML'
+PyYAML=3.1
